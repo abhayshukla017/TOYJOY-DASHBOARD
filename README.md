@@ -1,11 +1,10 @@
-# TOY JOY – Inventory & Sales Analytics Dashboard
-
-TOY JOY Dashboard<img width="1162" height="655" alt="TOYJOY" src="https://github.com/user-attachments/assets/deb01ba1-3c10-4c97-a407-b5053b8043c6" />
-
-
 ## 📌 Project Overview
 The **TOY JOY Inventory & Sales Analytics Dashboard** is a Power BI analytics solution that provides insights into sales performance, inventory efficiency, and seasonal trends. It enables data-driven decisions for optimizing stock levels, reducing excess inventory, and minimizing stockouts across multiple toy categories.
 
+
+# TOY JOY – Inventory & Sales Analytics Dashboard
+
+TOY JOY Dashboard<img width="1162" height="655" alt="TOYJOY" src="https://github.com/user-attachments/assets/deb01ba1-3c10-4c97-a407-b5053b8043c6" />
 ---
 
 ## 🎯 Key Features
