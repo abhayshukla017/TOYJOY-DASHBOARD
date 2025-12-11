@@ -1,4 +1,4 @@
-## 📌 Project Overview
+##  Project Overview
 The **TOY JOY Inventory & Sales Analytics Dashboard** is a Power BI analytics solution that provides insights into sales performance, inventory efficiency, and seasonal trends. It enables data-driven decisions for optimizing stock levels, reducing excess inventory, and minimizing stockouts across multiple toy categories.
 
 
@@ -7,7 +7,7 @@ The **TOY JOY Inventory & Sales Analytics Dashboard** is a Power BI analytics so
 TOY JOY Dashboard<img width="1162" height="655" alt="TOYJOY" src="https://github.com/user-attachments/assets/deb01ba1-3c10-4c97-a407-b5053b8043c6" />
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 ### **1. Sales Performance Metrics**
 - **Total Units Sold:** 101K  
@@ -39,7 +39,7 @@ TOY JOY Dashboard<img width="1162" height="655" alt="TOYJOY" src="https://github
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Power BI Desktop**
 - **Power Query (M)** for data transformation
 - **DAX** for KPIs and calculated measures
@@ -47,7 +47,7 @@ TOY JOY Dashboard<img width="1162" height="655" alt="TOYJOY" src="https://github
 
 ---
 
-## 📊 Dashboard Visuals
+##  Dashboard Visuals
 The dashboard includes:
 - KPI cards for critical metrics  
 - Bar and line charts for category, product, and seasonal trends  
@@ -58,7 +58,7 @@ The dashboard includes:
 
 ---
 
-## 📈 Business Value
+##  Business Value
 This dashboard supports:
 - Better purchasing decisions  
 - Reduced inventory carrying costs  
@@ -68,7 +68,7 @@ This dashboard supports:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Clone or download this repository.  
 2. Open **TOYJOY.pbix** in Power BI Desktop.  
 3. If necessary, update the file path for `toyjoy_inventory_updated.csv`.  
@@ -77,7 +77,7 @@ This dashboard supports:
 
 ---
 
-## 🧩 Future Enhancements
+##  Future Enhancements
 - Predictive demand forecasting  
 - Power BI Service scheduled refresh  
 - Integration with supplier lead times  
